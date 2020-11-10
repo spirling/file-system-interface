@@ -1,0 +1,14 @@
+{
+  "name": "spirling/file-system-interface",
+  "description": "File System interfaces",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Johnie Spirling",
+      "email": "johnie.spirling@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
